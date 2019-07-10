@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  jenkins:
+    container_name: jenkins_java
+    build: .
+    ports:
+      - "18080:8080"

@@ -1,0 +1,11 @@
+warnings-ng:5.1.0
+analysis-model-api:5.0.0
+antisamy-markup-formatter:1.5
+script-security:1.58
+jackson2-api:2.8.11.3
+structs:1.19
+code-coverage-api:1.0.4
+maven-plugin:3.1.2
+dashboard-view:2.9.9
+cobertura:1.14
+test-results-analyzer:0.3.5
